@@ -1,0 +1,140 @@
+{
+  "coding": {
+    "easy": [
+      {
+        "id": "e1",
+        "title": "Two Sum",
+        "problem": "Given an array of integers `nums` and an integer `target`, return indices of the two numbers such that they add up to `target`.",
+        "constraints": "Time: O(n^2), Memory: O(n).",
+        "starter_code": {
+          "javascript": "function solve(nums, target) {\n  // your code\n}",
+          "python": "def solve(nums, target):\n    # your code",
+          "java": "class Solution {\n    public int[] solve(int[] nums, int target) {\n        // your code\n    }\n}",
+          "cpp": "class Solution {\npublic:\n    vector<int> solve(vector<int>& nums, int target) {\n        // your code\n    }\n};"
+        },
+        "cases": [
+          {"input": "[[2,7,11,15], 9]", "output": "[0,1]"},
+          {"input": "[[3,2,4], 6]", "output": "[1,2]"},
+          {"input": "[[1,5,8,4], 12]", "output": "[2,3]"},
+          {"input": "[[0,4,3,0], 0]", "output": "[0,3]"}
+        ]
+      },
+      {
+        "id": "e2",
+        "title": "Palindrome Number",
+        "problem": "Given an integer `x`, return `true` if `x` is a palindrome, and `false` otherwise.",
+        "constraints": "Time: O(log n). Memory: O(1).",
+        "starter_code": {
+          "javascript": "function solve(x) {\n  // your code\n}",
+          "python": "def solve(x):\n    # your code",
+          "java": "class Solution {\n    public boolean solve(int x) {\n        // your code\n    }\n}",
+          "cpp": "class Solution {\npublic:\n    bool solve(int x) {\n        // your code\n    }\n};"
+        },
+        "cases": [
+          {"input": "[121]", "output": "true"},
+          {"input": "[-121]", "output": "false"},
+          {"input": "[10]", "output": "false"},
+          {"input": "[0]", "output": "true"}
+        ]
+      }
+    ],
+    "medium": [
+      {
+        "id": "m1",
+        "title": "Longest Palindromic Substring",
+        "problem": "Given a string `s`, return the longest palindromic substring in `s`.",
+        "constraints": "Time: O(n^2). Memory: O(1) extra.",
+        "starter_code": {
+          "javascript": "function solve(s) {\n  // your code\n}",
+          "python": "def solve(s):\n    # your code",
+          "java": "class Solution {\n    public String solve(String s) {\n        // your code\n    }\n}",
+          "cpp": "class Solution {\npublic:\n    string solve(string s) {\n        // your code\n    }\n};"
+        },
+        "cases": [
+          {"input": "[\"babad\"]", "output": "\"bab\""},
+          {"input": "[\"cbbd\"]", "output": "\"bb\""},
+          {"input": "[\"racecar\"]", "output": "\"racecar\""},
+          {"input": "[\"xabay\"]", "output": "\"aba\""}
+        ]
+      },
+      {
+        "id": "m2",
+        "title": "Reverse Integer",
+        "problem": "Given a signed 32-bit integer `x`, return `x` with its digits reversed. If reversing `x` causes the value to go outside the signed 32-bit integer range [-2^31, 2^31 - 1], then return 0.",
+        "constraints": "Assume the environment does not allow you to store 64-bit integers.",
+        "starter_code": {
+          "javascript": "function solve(x) {\n  // your code\n}",
+          "python": "def solve(x):\n    # your code",
+          "java": "class Solution {\n    public int solve(int x) {\n        // your code\n    }\n}",
+          "cpp": "class Solution {\npublic:\n    int solve(int x) {\n        // your code\n    }\n};"
+        },
+        "cases": [
+          {"input": "[123]", "output": "321"},
+          {"input": "[-123]", "output": "-321"},
+          {"input": "[120]", "output": "21"},
+          {"input": "[1534236469]", "output": "0"}
+        ]
+      }
+    ],
+    "hard": [
+      {
+        "id": "h1",
+        "title": "Merge k Sorted Lists",
+        "problem": "You are given an array of k linked-lists `lists`. Merge all the linked-lists into one sorted linked-list.",
+        "constraints": "Time: O(N log k). Memory: O(1) extra.",
+        "starter_code": {
+          "javascript": "function solve(lists) {\n  // your code\n}",
+          "python": "def solve(lists):\n    # your code",
+          "java": "class Solution {\n    public ListNode solve(ListNode[] lists) {\n        // your code\n    }\n}",
+          "cpp": "class Solution {\npublic:\n    ListNode* solve(vector<ListNode*>& lists) {\n        // your code\n    }\n};"
+        },
+        "cases": [
+          {"input": "[[[1,4,5],[1,3,4],[2,6]]]", "output": "[1,1,2,3,4,4,5,6]"},
+          {"input": "[[]]", "output": "[]"},
+          {"input": "[[[1], [0]]]", "output": "[0,1]"},
+          {"input": "[[[10,20],[5,15,25]]]", "output": "[5,10,15,20,25]"}
+        ]
+      },
+      {
+        "id": "h2",
+        "title": "Trapping Rain Water",
+        "problem": "Given `n` non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.",
+        "constraints": "Time: O(n). Memory: O(1).",
+        "starter_code": {
+          "javascript": "function solve(height) {\n  // your code\n}",
+          "python": "def solve(height):\n    # your code",
+          "java": "class Solution {\n    public int solve(int[] height) {\n        // your code\n    }\n}",
+          "cpp": "class Solution {\npublic:\n    int solve(vector<int>& height) {\n        // your code\n    }\n};"
+        },
+        "cases": [
+          {"input": "[[0,1,0,2,1,0,1,3,2,1,2,1]]", "output": "6"},
+          {"input": "[[4,2,0,3,2,5]]", "output": "9"},
+          {"input": "[[1,1,1]]", "output": "0"},
+          {"input": "[[3,0,2,0,4]]", "output": "7"}
+        ]
+      }
+    ]
+  },
+  "aptitude": [
+    { "id": 1, "question": "If a train travels 60km in 45 minutes, what is its speed in km/h?", "options": ["45", "60", "80", "90"], "answer": "80" },
+    { "id": 2, "question": "Find the next number in the series: 2, 6, 12, 20, 30, ?", "options": ["40", "42", "44", "46"], "answer": "42" },
+    { "id": 3, "question": "A shopkeeper gives a 10% discount but still makes a 20% profit. If the cost price is $900, what is the marked price?", "options": ["$1000", "$1100", "$1200", "$1300"], "answer": "$1200" },
+    { "id": 4, "question": "If 'APPLE' is coded as 'ELPPA', how is 'MANGO' coded?", "options": ["OGNAM", "NAGMO", "GNAMO", "MONG A"], "answer": "OGNAM" },
+    { "id": 5, "question": "Which word does NOT belong with the others?", "options": ["Leopard", "Cougar", "Elephant", "Lion"], "answer": "Elephant" },
+    { "id": 6, "question": "A father is 3 times as old as his son. In 12 years, he will be twice as old. How old is the son now?", "options": ["6", "10", "12", "15"], "answer": "12" },
+    { "id": 7, "question": "What is the missing number? 1, 4, 9, 16, 25, ?", "options": ["30", "36", "49", "64"], "answer": "36" },
+    { "id": 8, "question": "If 5 machines can make 5 widgets in 5 minutes, how long would it take 100 machines to make 100 widgets?", "options": ["1 min", "5 mins", "20 mins", "100 mins"], "answer": "5 mins" },
+    { "id": 9, "question": "Which set of letters follows a pattern? ACE, GIK, MOQ, ?", "options": ["RTV", "SUW", "UWX", "TVX"], "answer": "SUW" },
+    { "id": 10, "question": "A clock strike 12 in 12 seconds. How long will it take to strike 6?", "options": ["5s", "6s", "5.45s", "6.5s"], "answer": "5.45s" },
+    { "id": 11, "question": "If all Bloops are Razzies and all Razzies are Lurgies, then all Bloops are definitely Lurgies.", "options": ["True", "False"], "answer": "True" },
+    { "id": 12, "question": "A rectangle has a perimeter of 40. One side is 8. What is the area?", "options": ["64", "96", "100", "120"], "answer": "96" },
+    { "id": 13, "question": "What is 25% of 20% of 400?", "options": ["10", "15", "20", "25"], "answer": "20" },
+    { "id": 14, "question": "If 'WATER' is 'XBUFS', then 'ICE' is:", "options": ["JDF", "KFG", "LGH", "MHI"], "answer": "JDF" },
+    { "id": 15, "question": "Choose the odd one out: 27, 64, 125, 144.", "options": ["27", "64", "125", "144"], "answer": "144" },
+    { "id": 16, "question": "A person runs 10m North, then 10m East. How far is he from start (straight line)?", "options": ["10m", "20m", "14.14m", "15m"], "answer": "14.14m" },
+    { "id": 17, "question": "If today is Monday, what day was it 60 days ago?", "options": ["Saturday", "Sunday", "Thursday", "Friday"], "answer": "Friday" },
+    { "id": 18, "question": "A car covers 300km in 5h. At this speed, how long to cover 450km?", "options": ["6h", "7h", "7.5h", "8h"], "answer": "7.5h" },
+    { "id": 19, "question": "If X is the brother of Y's husband, how is X related to Y?", "options": ["Brother", "Cousin", "Brother-in-law", "Uncle"], "answer": "Brother-in-law" },
+    { "id": 20, "question": "Complete the analogy: Book is to Reading as Fork is to...", "options": ["Eating", "Stabbing", "Cooking", "Washing"], "answer": "Eating" }
+  ]
+}

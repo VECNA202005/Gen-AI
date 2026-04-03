@@ -1,0 +1,4422 @@
+{
+  "software_engineer": [
+    {
+      "question": "Explain your process for designing modular architecture",
+      "keywords": [
+        "architecture",
+        "modularity",
+        "scalability",
+        "separation of concerns",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How do you ensure code quality in rapidly changing projects?",
+      "keywords": [
+        "testing",
+        "CI/CD",
+        "code review",
+        "standards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss handling production incidents and postmortems",
+      "keywords": [
+        "incident response",
+        "postmortem",
+        "reliability",
+        "blameless",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for designing modular architecture - Advanced scenario #4",
+      "keywords": [
+        "architecture",
+        "modularity",
+        "scalability",
+        "separation of concerns",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How do you ensure code quality in rapidly changing projects? - Advanced scenario #5",
+      "keywords": [
+        "testing",
+        "CI/CD",
+        "code review",
+        "standards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss handling production incidents and postmortems - Advanced scenario #6",
+      "keywords": [
+        "incident response",
+        "postmortem",
+        "reliability",
+        "blameless",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for designing modular architecture - Advanced scenario #7",
+      "keywords": [
+        "architecture",
+        "modularity",
+        "scalability",
+        "separation of concerns",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How do you ensure code quality in rapidly changing projects? - Advanced scenario #8",
+      "keywords": [
+        "testing",
+        "CI/CD",
+        "code review",
+        "standards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss handling production incidents and postmortems - Advanced scenario #9",
+      "keywords": [
+        "incident response",
+        "postmortem",
+        "reliability",
+        "blameless",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for designing modular architecture - Advanced scenario #10",
+      "keywords": [
+        "architecture",
+        "modularity",
+        "scalability",
+        "separation of concerns",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How do you ensure code quality in rapidly changing projects? - Advanced scenario #11",
+      "keywords": [
+        "testing",
+        "CI/CD",
+        "code review",
+        "standards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss handling production incidents and postmortems - Advanced scenario #12",
+      "keywords": [
+        "incident response",
+        "postmortem",
+        "reliability",
+        "blameless",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for designing modular architecture - Advanced scenario #13",
+      "keywords": [
+        "architecture",
+        "modularity",
+        "scalability",
+        "separation of concerns",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How do you ensure code quality in rapidly changing projects? - Advanced scenario #14",
+      "keywords": [
+        "testing",
+        "CI/CD",
+        "code review",
+        "standards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss handling production incidents and postmortems - Advanced scenario #15",
+      "keywords": [
+        "incident response",
+        "postmortem",
+        "reliability",
+        "blameless",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for designing modular architecture - Advanced scenario #16",
+      "keywords": [
+        "architecture",
+        "modularity",
+        "scalability",
+        "separation of concerns",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How do you ensure code quality in rapidly changing projects? - Advanced scenario #17",
+      "keywords": [
+        "testing",
+        "CI/CD",
+        "code review",
+        "standards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss handling production incidents and postmortems - Advanced scenario #18",
+      "keywords": [
+        "incident response",
+        "postmortem",
+        "reliability",
+        "blameless",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for designing modular architecture - Advanced scenario #19",
+      "keywords": [
+        "architecture",
+        "modularity",
+        "scalability",
+        "separation of concerns",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How do you ensure code quality in rapidly changing projects? - Advanced scenario #20",
+      "keywords": [
+        "testing",
+        "CI/CD",
+        "code review",
+        "standards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss handling production incidents and postmortems - Advanced scenario #21",
+      "keywords": [
+        "incident response",
+        "postmortem",
+        "reliability",
+        "blameless",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for designing modular architecture - Advanced scenario #22",
+      "keywords": [
+        "architecture",
+        "modularity",
+        "scalability",
+        "separation of concerns",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How do you ensure code quality in rapidly changing projects? - Advanced scenario #23",
+      "keywords": [
+        "testing",
+        "CI/CD",
+        "code review",
+        "standards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss handling production incidents and postmortems - Advanced scenario #24",
+      "keywords": [
+        "incident response",
+        "postmortem",
+        "reliability",
+        "blameless",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for designing modular architecture - Advanced scenario #25",
+      "keywords": [
+        "architecture",
+        "modularity",
+        "scalability",
+        "separation of concerns",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How do you ensure code quality in rapidly changing projects? - Advanced scenario #26",
+      "keywords": [
+        "testing",
+        "CI/CD",
+        "code review",
+        "standards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss handling production incidents and postmortems - Advanced scenario #27",
+      "keywords": [
+        "incident response",
+        "postmortem",
+        "reliability",
+        "blameless",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for designing modular architecture - Advanced scenario #28",
+      "keywords": [
+        "architecture",
+        "modularity",
+        "scalability",
+        "separation of concerns",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How do you ensure code quality in rapidly changing projects? - Advanced scenario #29",
+      "keywords": [
+        "testing",
+        "CI/CD",
+        "code review",
+        "standards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss handling production incidents and postmortems - Advanced scenario #30",
+      "keywords": [
+        "incident response",
+        "postmortem",
+        "reliability",
+        "blameless",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for designing modular architecture - Advanced scenario #31",
+      "keywords": [
+        "architecture",
+        "modularity",
+        "scalability",
+        "separation of concerns",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How do you ensure code quality in rapidly changing projects? - Advanced scenario #32",
+      "keywords": [
+        "testing",
+        "CI/CD",
+        "code review",
+        "standards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss handling production incidents and postmortems - Advanced scenario #33",
+      "keywords": [
+        "incident response",
+        "postmortem",
+        "reliability",
+        "blameless",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for designing modular architecture - Advanced scenario #34",
+      "keywords": [
+        "architecture",
+        "modularity",
+        "scalability",
+        "separation of concerns",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How do you ensure code quality in rapidly changing projects? - Advanced scenario #35",
+      "keywords": [
+        "testing",
+        "CI/CD",
+        "code review",
+        "standards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss handling production incidents and postmortems - Advanced scenario #36",
+      "keywords": [
+        "incident response",
+        "postmortem",
+        "reliability",
+        "blameless",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for designing modular architecture - Advanced scenario #37",
+      "keywords": [
+        "architecture",
+        "modularity",
+        "scalability",
+        "separation of concerns",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How do you ensure code quality in rapidly changing projects? - Advanced scenario #38",
+      "keywords": [
+        "testing",
+        "CI/CD",
+        "code review",
+        "standards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss handling production incidents and postmortems - Advanced scenario #39",
+      "keywords": [
+        "incident response",
+        "postmortem",
+        "reliability",
+        "blameless",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for designing modular architecture - Advanced scenario #40",
+      "keywords": [
+        "architecture",
+        "modularity",
+        "scalability",
+        "separation of concerns",
+        "design",
+        "reliability"
+      ]
+    }
+  ],
+  "backend_developer": [
+    {
+      "question": "Design a rate-limited API for a high-traffic service",
+      "keywords": [
+        "rate limiting",
+        "throughput",
+        "backend",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain database sharding strategies and tradeoffs",
+      "keywords": [
+        "sharding",
+        "partitioning",
+        "database",
+        "scalability",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How would you implement distributed transactions safely?",
+      "keywords": [
+        "transactions",
+        "two-phase commit",
+        "consistency",
+        "ACID",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a rate-limited API for a high-traffic service - Advanced scenario #4",
+      "keywords": [
+        "rate limiting",
+        "throughput",
+        "backend",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain database sharding strategies and tradeoffs - Advanced scenario #5",
+      "keywords": [
+        "sharding",
+        "partitioning",
+        "database",
+        "scalability",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How would you implement distributed transactions safely? - Advanced scenario #6",
+      "keywords": [
+        "transactions",
+        "two-phase commit",
+        "consistency",
+        "ACID",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a rate-limited API for a high-traffic service - Advanced scenario #7",
+      "keywords": [
+        "rate limiting",
+        "throughput",
+        "backend",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain database sharding strategies and tradeoffs - Advanced scenario #8",
+      "keywords": [
+        "sharding",
+        "partitioning",
+        "database",
+        "scalability",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How would you implement distributed transactions safely? - Advanced scenario #9",
+      "keywords": [
+        "transactions",
+        "two-phase commit",
+        "consistency",
+        "ACID",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a rate-limited API for a high-traffic service - Advanced scenario #10",
+      "keywords": [
+        "rate limiting",
+        "throughput",
+        "backend",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain database sharding strategies and tradeoffs - Advanced scenario #11",
+      "keywords": [
+        "sharding",
+        "partitioning",
+        "database",
+        "scalability",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How would you implement distributed transactions safely? - Advanced scenario #12",
+      "keywords": [
+        "transactions",
+        "two-phase commit",
+        "consistency",
+        "ACID",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a rate-limited API for a high-traffic service - Advanced scenario #13",
+      "keywords": [
+        "rate limiting",
+        "throughput",
+        "backend",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain database sharding strategies and tradeoffs - Advanced scenario #14",
+      "keywords": [
+        "sharding",
+        "partitioning",
+        "database",
+        "scalability",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How would you implement distributed transactions safely? - Advanced scenario #15",
+      "keywords": [
+        "transactions",
+        "two-phase commit",
+        "consistency",
+        "ACID",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a rate-limited API for a high-traffic service - Advanced scenario #16",
+      "keywords": [
+        "rate limiting",
+        "throughput",
+        "backend",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain database sharding strategies and tradeoffs - Advanced scenario #17",
+      "keywords": [
+        "sharding",
+        "partitioning",
+        "database",
+        "scalability",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How would you implement distributed transactions safely? - Advanced scenario #18",
+      "keywords": [
+        "transactions",
+        "two-phase commit",
+        "consistency",
+        "ACID",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a rate-limited API for a high-traffic service - Advanced scenario #19",
+      "keywords": [
+        "rate limiting",
+        "throughput",
+        "backend",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain database sharding strategies and tradeoffs - Advanced scenario #20",
+      "keywords": [
+        "sharding",
+        "partitioning",
+        "database",
+        "scalability",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How would you implement distributed transactions safely? - Advanced scenario #21",
+      "keywords": [
+        "transactions",
+        "two-phase commit",
+        "consistency",
+        "ACID",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a rate-limited API for a high-traffic service - Advanced scenario #22",
+      "keywords": [
+        "rate limiting",
+        "throughput",
+        "backend",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain database sharding strategies and tradeoffs - Advanced scenario #23",
+      "keywords": [
+        "sharding",
+        "partitioning",
+        "database",
+        "scalability",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How would you implement distributed transactions safely? - Advanced scenario #24",
+      "keywords": [
+        "transactions",
+        "two-phase commit",
+        "consistency",
+        "ACID",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a rate-limited API for a high-traffic service - Advanced scenario #25",
+      "keywords": [
+        "rate limiting",
+        "throughput",
+        "backend",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain database sharding strategies and tradeoffs - Advanced scenario #26",
+      "keywords": [
+        "sharding",
+        "partitioning",
+        "database",
+        "scalability",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How would you implement distributed transactions safely? - Advanced scenario #27",
+      "keywords": [
+        "transactions",
+        "two-phase commit",
+        "consistency",
+        "ACID",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a rate-limited API for a high-traffic service - Advanced scenario #28",
+      "keywords": [
+        "rate limiting",
+        "throughput",
+        "backend",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain database sharding strategies and tradeoffs - Advanced scenario #29",
+      "keywords": [
+        "sharding",
+        "partitioning",
+        "database",
+        "scalability",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How would you implement distributed transactions safely? - Advanced scenario #30",
+      "keywords": [
+        "transactions",
+        "two-phase commit",
+        "consistency",
+        "ACID",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a rate-limited API for a high-traffic service - Advanced scenario #31",
+      "keywords": [
+        "rate limiting",
+        "throughput",
+        "backend",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain database sharding strategies and tradeoffs - Advanced scenario #32",
+      "keywords": [
+        "sharding",
+        "partitioning",
+        "database",
+        "scalability",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How would you implement distributed transactions safely? - Advanced scenario #33",
+      "keywords": [
+        "transactions",
+        "two-phase commit",
+        "consistency",
+        "ACID",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a rate-limited API for a high-traffic service - Advanced scenario #34",
+      "keywords": [
+        "rate limiting",
+        "throughput",
+        "backend",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain database sharding strategies and tradeoffs - Advanced scenario #35",
+      "keywords": [
+        "sharding",
+        "partitioning",
+        "database",
+        "scalability",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How would you implement distributed transactions safely? - Advanced scenario #36",
+      "keywords": [
+        "transactions",
+        "two-phase commit",
+        "consistency",
+        "ACID",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a rate-limited API for a high-traffic service - Advanced scenario #37",
+      "keywords": [
+        "rate limiting",
+        "throughput",
+        "backend",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain database sharding strategies and tradeoffs - Advanced scenario #38",
+      "keywords": [
+        "sharding",
+        "partitioning",
+        "database",
+        "scalability",
+        "design",
+        "reliability"
+      ]
+    },
+    {
+      "question": "How would you implement distributed transactions safely? - Advanced scenario #39",
+      "keywords": [
+        "transactions",
+        "two-phase commit",
+        "consistency",
+        "ACID",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a rate-limited API for a high-traffic service - Advanced scenario #40",
+      "keywords": [
+        "rate limiting",
+        "throughput",
+        "backend",
+        "security",
+        "design",
+        "scalability"
+      ]
+    }
+  ],
+  "frontend_developer": [
+    {
+      "question": "Describe a difficult cross-browser issue and fix",
+      "keywords": [
+        "cross-browser",
+        "debugging",
+        "CSS",
+        "compatibility",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize app load performance?",
+      "keywords": [
+        "performance",
+        "lazy loading",
+        "bundle splitting",
+        "network",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain accessibility best practices for UI",
+      "keywords": [
+        "accessibility",
+        "a11y",
+        "ARIA",
+        "keyboard navigation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe a difficult cross-browser issue and fix - Advanced scenario #4",
+      "keywords": [
+        "cross-browser",
+        "debugging",
+        "CSS",
+        "compatibility",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize app load performance? - Advanced scenario #5",
+      "keywords": [
+        "performance",
+        "lazy loading",
+        "bundle splitting",
+        "network",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain accessibility best practices for UI - Advanced scenario #6",
+      "keywords": [
+        "accessibility",
+        "a11y",
+        "ARIA",
+        "keyboard navigation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe a difficult cross-browser issue and fix - Advanced scenario #7",
+      "keywords": [
+        "cross-browser",
+        "debugging",
+        "CSS",
+        "compatibility",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize app load performance? - Advanced scenario #8",
+      "keywords": [
+        "performance",
+        "lazy loading",
+        "bundle splitting",
+        "network",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain accessibility best practices for UI - Advanced scenario #9",
+      "keywords": [
+        "accessibility",
+        "a11y",
+        "ARIA",
+        "keyboard navigation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe a difficult cross-browser issue and fix - Advanced scenario #10",
+      "keywords": [
+        "cross-browser",
+        "debugging",
+        "CSS",
+        "compatibility",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize app load performance? - Advanced scenario #11",
+      "keywords": [
+        "performance",
+        "lazy loading",
+        "bundle splitting",
+        "network",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain accessibility best practices for UI - Advanced scenario #12",
+      "keywords": [
+        "accessibility",
+        "a11y",
+        "ARIA",
+        "keyboard navigation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe a difficult cross-browser issue and fix - Advanced scenario #13",
+      "keywords": [
+        "cross-browser",
+        "debugging",
+        "CSS",
+        "compatibility",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize app load performance? - Advanced scenario #14",
+      "keywords": [
+        "performance",
+        "lazy loading",
+        "bundle splitting",
+        "network",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain accessibility best practices for UI - Advanced scenario #15",
+      "keywords": [
+        "accessibility",
+        "a11y",
+        "ARIA",
+        "keyboard navigation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe a difficult cross-browser issue and fix - Advanced scenario #16",
+      "keywords": [
+        "cross-browser",
+        "debugging",
+        "CSS",
+        "compatibility",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize app load performance? - Advanced scenario #17",
+      "keywords": [
+        "performance",
+        "lazy loading",
+        "bundle splitting",
+        "network",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain accessibility best practices for UI - Advanced scenario #18",
+      "keywords": [
+        "accessibility",
+        "a11y",
+        "ARIA",
+        "keyboard navigation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe a difficult cross-browser issue and fix - Advanced scenario #19",
+      "keywords": [
+        "cross-browser",
+        "debugging",
+        "CSS",
+        "compatibility",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize app load performance? - Advanced scenario #20",
+      "keywords": [
+        "performance",
+        "lazy loading",
+        "bundle splitting",
+        "network",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain accessibility best practices for UI - Advanced scenario #21",
+      "keywords": [
+        "accessibility",
+        "a11y",
+        "ARIA",
+        "keyboard navigation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe a difficult cross-browser issue and fix - Advanced scenario #22",
+      "keywords": [
+        "cross-browser",
+        "debugging",
+        "CSS",
+        "compatibility",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize app load performance? - Advanced scenario #23",
+      "keywords": [
+        "performance",
+        "lazy loading",
+        "bundle splitting",
+        "network",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain accessibility best practices for UI - Advanced scenario #24",
+      "keywords": [
+        "accessibility",
+        "a11y",
+        "ARIA",
+        "keyboard navigation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe a difficult cross-browser issue and fix - Advanced scenario #25",
+      "keywords": [
+        "cross-browser",
+        "debugging",
+        "CSS",
+        "compatibility",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize app load performance? - Advanced scenario #26",
+      "keywords": [
+        "performance",
+        "lazy loading",
+        "bundle splitting",
+        "network",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain accessibility best practices for UI - Advanced scenario #27",
+      "keywords": [
+        "accessibility",
+        "a11y",
+        "ARIA",
+        "keyboard navigation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe a difficult cross-browser issue and fix - Advanced scenario #28",
+      "keywords": [
+        "cross-browser",
+        "debugging",
+        "CSS",
+        "compatibility",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize app load performance? - Advanced scenario #29",
+      "keywords": [
+        "performance",
+        "lazy loading",
+        "bundle splitting",
+        "network",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain accessibility best practices for UI - Advanced scenario #30",
+      "keywords": [
+        "accessibility",
+        "a11y",
+        "ARIA",
+        "keyboard navigation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe a difficult cross-browser issue and fix - Advanced scenario #31",
+      "keywords": [
+        "cross-browser",
+        "debugging",
+        "CSS",
+        "compatibility",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize app load performance? - Advanced scenario #32",
+      "keywords": [
+        "performance",
+        "lazy loading",
+        "bundle splitting",
+        "network",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain accessibility best practices for UI - Advanced scenario #33",
+      "keywords": [
+        "accessibility",
+        "a11y",
+        "ARIA",
+        "keyboard navigation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe a difficult cross-browser issue and fix - Advanced scenario #34",
+      "keywords": [
+        "cross-browser",
+        "debugging",
+        "CSS",
+        "compatibility",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize app load performance? - Advanced scenario #35",
+      "keywords": [
+        "performance",
+        "lazy loading",
+        "bundle splitting",
+        "network",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain accessibility best practices for UI - Advanced scenario #36",
+      "keywords": [
+        "accessibility",
+        "a11y",
+        "ARIA",
+        "keyboard navigation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe a difficult cross-browser issue and fix - Advanced scenario #37",
+      "keywords": [
+        "cross-browser",
+        "debugging",
+        "CSS",
+        "compatibility",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize app load performance? - Advanced scenario #38",
+      "keywords": [
+        "performance",
+        "lazy loading",
+        "bundle splitting",
+        "network",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain accessibility best practices for UI - Advanced scenario #39",
+      "keywords": [
+        "accessibility",
+        "a11y",
+        "ARIA",
+        "keyboard navigation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe a difficult cross-browser issue and fix - Advanced scenario #40",
+      "keywords": [
+        "cross-browser",
+        "debugging",
+        "CSS",
+        "compatibility",
+        "design",
+        "scalability"
+      ]
+    }
+  ],
+  "full_stack_developer": [
+    {
+      "question": "Design a real-time notifications system",
+      "keywords": [
+        "WebSocket",
+        "realtime",
+        "backend",
+        "frontend",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain coordinating API and UI changes in agile teams",
+      "keywords": [
+        "API",
+        "frontend",
+        "integration",
+        "rollback",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss security considerations for end-to-end flows",
+      "keywords": [
+        "authentication",
+        "authorization",
+        "encryption",
+        "scope",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a real-time notifications system - Advanced scenario #4",
+      "keywords": [
+        "WebSocket",
+        "realtime",
+        "backend",
+        "frontend",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain coordinating API and UI changes in agile teams - Advanced scenario #5",
+      "keywords": [
+        "API",
+        "frontend",
+        "integration",
+        "rollback",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss security considerations for end-to-end flows - Advanced scenario #6",
+      "keywords": [
+        "authentication",
+        "authorization",
+        "encryption",
+        "scope",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a real-time notifications system - Advanced scenario #7",
+      "keywords": [
+        "WebSocket",
+        "realtime",
+        "backend",
+        "frontend",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain coordinating API and UI changes in agile teams - Advanced scenario #8",
+      "keywords": [
+        "API",
+        "frontend",
+        "integration",
+        "rollback",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss security considerations for end-to-end flows - Advanced scenario #9",
+      "keywords": [
+        "authentication",
+        "authorization",
+        "encryption",
+        "scope",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a real-time notifications system - Advanced scenario #10",
+      "keywords": [
+        "WebSocket",
+        "realtime",
+        "backend",
+        "frontend",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain coordinating API and UI changes in agile teams - Advanced scenario #11",
+      "keywords": [
+        "API",
+        "frontend",
+        "integration",
+        "rollback",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss security considerations for end-to-end flows - Advanced scenario #12",
+      "keywords": [
+        "authentication",
+        "authorization",
+        "encryption",
+        "scope",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a real-time notifications system - Advanced scenario #13",
+      "keywords": [
+        "WebSocket",
+        "realtime",
+        "backend",
+        "frontend",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain coordinating API and UI changes in agile teams - Advanced scenario #14",
+      "keywords": [
+        "API",
+        "frontend",
+        "integration",
+        "rollback",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss security considerations for end-to-end flows - Advanced scenario #15",
+      "keywords": [
+        "authentication",
+        "authorization",
+        "encryption",
+        "scope",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a real-time notifications system - Advanced scenario #16",
+      "keywords": [
+        "WebSocket",
+        "realtime",
+        "backend",
+        "frontend",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain coordinating API and UI changes in agile teams - Advanced scenario #17",
+      "keywords": [
+        "API",
+        "frontend",
+        "integration",
+        "rollback",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss security considerations for end-to-end flows - Advanced scenario #18",
+      "keywords": [
+        "authentication",
+        "authorization",
+        "encryption",
+        "scope",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a real-time notifications system - Advanced scenario #19",
+      "keywords": [
+        "WebSocket",
+        "realtime",
+        "backend",
+        "frontend",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain coordinating API and UI changes in agile teams - Advanced scenario #20",
+      "keywords": [
+        "API",
+        "frontend",
+        "integration",
+        "rollback",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss security considerations for end-to-end flows - Advanced scenario #21",
+      "keywords": [
+        "authentication",
+        "authorization",
+        "encryption",
+        "scope",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a real-time notifications system - Advanced scenario #22",
+      "keywords": [
+        "WebSocket",
+        "realtime",
+        "backend",
+        "frontend",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain coordinating API and UI changes in agile teams - Advanced scenario #23",
+      "keywords": [
+        "API",
+        "frontend",
+        "integration",
+        "rollback",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss security considerations for end-to-end flows - Advanced scenario #24",
+      "keywords": [
+        "authentication",
+        "authorization",
+        "encryption",
+        "scope",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a real-time notifications system - Advanced scenario #25",
+      "keywords": [
+        "WebSocket",
+        "realtime",
+        "backend",
+        "frontend",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain coordinating API and UI changes in agile teams - Advanced scenario #26",
+      "keywords": [
+        "API",
+        "frontend",
+        "integration",
+        "rollback",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss security considerations for end-to-end flows - Advanced scenario #27",
+      "keywords": [
+        "authentication",
+        "authorization",
+        "encryption",
+        "scope",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a real-time notifications system - Advanced scenario #28",
+      "keywords": [
+        "WebSocket",
+        "realtime",
+        "backend",
+        "frontend",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain coordinating API and UI changes in agile teams - Advanced scenario #29",
+      "keywords": [
+        "API",
+        "frontend",
+        "integration",
+        "rollback",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss security considerations for end-to-end flows - Advanced scenario #30",
+      "keywords": [
+        "authentication",
+        "authorization",
+        "encryption",
+        "scope",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a real-time notifications system - Advanced scenario #31",
+      "keywords": [
+        "WebSocket",
+        "realtime",
+        "backend",
+        "frontend",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain coordinating API and UI changes in agile teams - Advanced scenario #32",
+      "keywords": [
+        "API",
+        "frontend",
+        "integration",
+        "rollback",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss security considerations for end-to-end flows - Advanced scenario #33",
+      "keywords": [
+        "authentication",
+        "authorization",
+        "encryption",
+        "scope",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a real-time notifications system - Advanced scenario #34",
+      "keywords": [
+        "WebSocket",
+        "realtime",
+        "backend",
+        "frontend",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain coordinating API and UI changes in agile teams - Advanced scenario #35",
+      "keywords": [
+        "API",
+        "frontend",
+        "integration",
+        "rollback",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss security considerations for end-to-end flows - Advanced scenario #36",
+      "keywords": [
+        "authentication",
+        "authorization",
+        "encryption",
+        "scope",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a real-time notifications system - Advanced scenario #37",
+      "keywords": [
+        "WebSocket",
+        "realtime",
+        "backend",
+        "frontend",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain coordinating API and UI changes in agile teams - Advanced scenario #38",
+      "keywords": [
+        "API",
+        "frontend",
+        "integration",
+        "rollback",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss security considerations for end-to-end flows - Advanced scenario #39",
+      "keywords": [
+        "authentication",
+        "authorization",
+        "encryption",
+        "scope",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a real-time notifications system - Advanced scenario #40",
+      "keywords": [
+        "WebSocket",
+        "realtime",
+        "backend",
+        "frontend",
+        "design",
+        "scalability"
+      ]
+    }
+  ],
+  "web_developer": [
+    {
+      "question": "Describe progressive web app architecture and features",
+      "keywords": [
+        "PWA",
+        "service worker",
+        "offline",
+        "manifest",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize first contentful paint?",
+      "keywords": [
+        "FCP",
+        "critical CSS",
+        "resources",
+        "minification",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain SEO technical best practices for dynamic sites",
+      "keywords": [
+        "SEO",
+        "meta",
+        "schema",
+        "site map",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe progressive web app architecture and features - Advanced scenario #4",
+      "keywords": [
+        "PWA",
+        "service worker",
+        "offline",
+        "manifest",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize first contentful paint? - Advanced scenario #5",
+      "keywords": [
+        "FCP",
+        "critical CSS",
+        "resources",
+        "minification",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain SEO technical best practices for dynamic sites - Advanced scenario #6",
+      "keywords": [
+        "SEO",
+        "meta",
+        "schema",
+        "site map",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe progressive web app architecture and features - Advanced scenario #7",
+      "keywords": [
+        "PWA",
+        "service worker",
+        "offline",
+        "manifest",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize first contentful paint? - Advanced scenario #8",
+      "keywords": [
+        "FCP",
+        "critical CSS",
+        "resources",
+        "minification",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain SEO technical best practices for dynamic sites - Advanced scenario #9",
+      "keywords": [
+        "SEO",
+        "meta",
+        "schema",
+        "site map",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe progressive web app architecture and features - Advanced scenario #10",
+      "keywords": [
+        "PWA",
+        "service worker",
+        "offline",
+        "manifest",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize first contentful paint? - Advanced scenario #11",
+      "keywords": [
+        "FCP",
+        "critical CSS",
+        "resources",
+        "minification",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain SEO technical best practices for dynamic sites - Advanced scenario #12",
+      "keywords": [
+        "SEO",
+        "meta",
+        "schema",
+        "site map",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe progressive web app architecture and features - Advanced scenario #13",
+      "keywords": [
+        "PWA",
+        "service worker",
+        "offline",
+        "manifest",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize first contentful paint? - Advanced scenario #14",
+      "keywords": [
+        "FCP",
+        "critical CSS",
+        "resources",
+        "minification",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain SEO technical best practices for dynamic sites - Advanced scenario #15",
+      "keywords": [
+        "SEO",
+        "meta",
+        "schema",
+        "site map",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe progressive web app architecture and features - Advanced scenario #16",
+      "keywords": [
+        "PWA",
+        "service worker",
+        "offline",
+        "manifest",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize first contentful paint? - Advanced scenario #17",
+      "keywords": [
+        "FCP",
+        "critical CSS",
+        "resources",
+        "minification",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain SEO technical best practices for dynamic sites - Advanced scenario #18",
+      "keywords": [
+        "SEO",
+        "meta",
+        "schema",
+        "site map",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe progressive web app architecture and features - Advanced scenario #19",
+      "keywords": [
+        "PWA",
+        "service worker",
+        "offline",
+        "manifest",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize first contentful paint? - Advanced scenario #20",
+      "keywords": [
+        "FCP",
+        "critical CSS",
+        "resources",
+        "minification",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain SEO technical best practices for dynamic sites - Advanced scenario #21",
+      "keywords": [
+        "SEO",
+        "meta",
+        "schema",
+        "site map",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe progressive web app architecture and features - Advanced scenario #22",
+      "keywords": [
+        "PWA",
+        "service worker",
+        "offline",
+        "manifest",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize first contentful paint? - Advanced scenario #23",
+      "keywords": [
+        "FCP",
+        "critical CSS",
+        "resources",
+        "minification",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain SEO technical best practices for dynamic sites - Advanced scenario #24",
+      "keywords": [
+        "SEO",
+        "meta",
+        "schema",
+        "site map",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe progressive web app architecture and features - Advanced scenario #25",
+      "keywords": [
+        "PWA",
+        "service worker",
+        "offline",
+        "manifest",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize first contentful paint? - Advanced scenario #26",
+      "keywords": [
+        "FCP",
+        "critical CSS",
+        "resources",
+        "minification",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain SEO technical best practices for dynamic sites - Advanced scenario #27",
+      "keywords": [
+        "SEO",
+        "meta",
+        "schema",
+        "site map",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe progressive web app architecture and features - Advanced scenario #28",
+      "keywords": [
+        "PWA",
+        "service worker",
+        "offline",
+        "manifest",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize first contentful paint? - Advanced scenario #29",
+      "keywords": [
+        "FCP",
+        "critical CSS",
+        "resources",
+        "minification",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain SEO technical best practices for dynamic sites - Advanced scenario #30",
+      "keywords": [
+        "SEO",
+        "meta",
+        "schema",
+        "site map",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe progressive web app architecture and features - Advanced scenario #31",
+      "keywords": [
+        "PWA",
+        "service worker",
+        "offline",
+        "manifest",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize first contentful paint? - Advanced scenario #32",
+      "keywords": [
+        "FCP",
+        "critical CSS",
+        "resources",
+        "minification",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain SEO technical best practices for dynamic sites - Advanced scenario #33",
+      "keywords": [
+        "SEO",
+        "meta",
+        "schema",
+        "site map",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe progressive web app architecture and features - Advanced scenario #34",
+      "keywords": [
+        "PWA",
+        "service worker",
+        "offline",
+        "manifest",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize first contentful paint? - Advanced scenario #35",
+      "keywords": [
+        "FCP",
+        "critical CSS",
+        "resources",
+        "minification",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain SEO technical best practices for dynamic sites - Advanced scenario #36",
+      "keywords": [
+        "SEO",
+        "meta",
+        "schema",
+        "site map",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe progressive web app architecture and features - Advanced scenario #37",
+      "keywords": [
+        "PWA",
+        "service worker",
+        "offline",
+        "manifest",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize first contentful paint? - Advanced scenario #38",
+      "keywords": [
+        "FCP",
+        "critical CSS",
+        "resources",
+        "minification",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain SEO technical best practices for dynamic sites - Advanced scenario #39",
+      "keywords": [
+        "SEO",
+        "meta",
+        "schema",
+        "site map",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe progressive web app architecture and features - Advanced scenario #40",
+      "keywords": [
+        "PWA",
+        "service worker",
+        "offline",
+        "manifest",
+        "design",
+        "scalability"
+      ]
+    }
+  ],
+  "mobile_app_developer": [
+    {
+      "question": "Design an offline-first mobile app architecture",
+      "keywords": [
+        "offline",
+        "sync",
+        "caching",
+        "local storage",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize memory and battery usage?",
+      "keywords": [
+        "memory",
+        "battery",
+        "profiling",
+        "efficiency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain push notification security and reliability",
+      "keywords": [
+        "push",
+        "APNs",
+        "FCM",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design an offline-first mobile app architecture - Advanced scenario #4",
+      "keywords": [
+        "offline",
+        "sync",
+        "caching",
+        "local storage",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize memory and battery usage? - Advanced scenario #5",
+      "keywords": [
+        "memory",
+        "battery",
+        "profiling",
+        "efficiency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain push notification security and reliability - Advanced scenario #6",
+      "keywords": [
+        "push",
+        "APNs",
+        "FCM",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design an offline-first mobile app architecture - Advanced scenario #7",
+      "keywords": [
+        "offline",
+        "sync",
+        "caching",
+        "local storage",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize memory and battery usage? - Advanced scenario #8",
+      "keywords": [
+        "memory",
+        "battery",
+        "profiling",
+        "efficiency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain push notification security and reliability - Advanced scenario #9",
+      "keywords": [
+        "push",
+        "APNs",
+        "FCM",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design an offline-first mobile app architecture - Advanced scenario #10",
+      "keywords": [
+        "offline",
+        "sync",
+        "caching",
+        "local storage",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize memory and battery usage? - Advanced scenario #11",
+      "keywords": [
+        "memory",
+        "battery",
+        "profiling",
+        "efficiency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain push notification security and reliability - Advanced scenario #12",
+      "keywords": [
+        "push",
+        "APNs",
+        "FCM",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design an offline-first mobile app architecture - Advanced scenario #13",
+      "keywords": [
+        "offline",
+        "sync",
+        "caching",
+        "local storage",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize memory and battery usage? - Advanced scenario #14",
+      "keywords": [
+        "memory",
+        "battery",
+        "profiling",
+        "efficiency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain push notification security and reliability - Advanced scenario #15",
+      "keywords": [
+        "push",
+        "APNs",
+        "FCM",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design an offline-first mobile app architecture - Advanced scenario #16",
+      "keywords": [
+        "offline",
+        "sync",
+        "caching",
+        "local storage",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize memory and battery usage? - Advanced scenario #17",
+      "keywords": [
+        "memory",
+        "battery",
+        "profiling",
+        "efficiency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain push notification security and reliability - Advanced scenario #18",
+      "keywords": [
+        "push",
+        "APNs",
+        "FCM",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design an offline-first mobile app architecture - Advanced scenario #19",
+      "keywords": [
+        "offline",
+        "sync",
+        "caching",
+        "local storage",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize memory and battery usage? - Advanced scenario #20",
+      "keywords": [
+        "memory",
+        "battery",
+        "profiling",
+        "efficiency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain push notification security and reliability - Advanced scenario #21",
+      "keywords": [
+        "push",
+        "APNs",
+        "FCM",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design an offline-first mobile app architecture - Advanced scenario #22",
+      "keywords": [
+        "offline",
+        "sync",
+        "caching",
+        "local storage",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize memory and battery usage? - Advanced scenario #23",
+      "keywords": [
+        "memory",
+        "battery",
+        "profiling",
+        "efficiency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain push notification security and reliability - Advanced scenario #24",
+      "keywords": [
+        "push",
+        "APNs",
+        "FCM",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design an offline-first mobile app architecture - Advanced scenario #25",
+      "keywords": [
+        "offline",
+        "sync",
+        "caching",
+        "local storage",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize memory and battery usage? - Advanced scenario #26",
+      "keywords": [
+        "memory",
+        "battery",
+        "profiling",
+        "efficiency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain push notification security and reliability - Advanced scenario #27",
+      "keywords": [
+        "push",
+        "APNs",
+        "FCM",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design an offline-first mobile app architecture - Advanced scenario #28",
+      "keywords": [
+        "offline",
+        "sync",
+        "caching",
+        "local storage",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize memory and battery usage? - Advanced scenario #29",
+      "keywords": [
+        "memory",
+        "battery",
+        "profiling",
+        "efficiency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain push notification security and reliability - Advanced scenario #30",
+      "keywords": [
+        "push",
+        "APNs",
+        "FCM",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design an offline-first mobile app architecture - Advanced scenario #31",
+      "keywords": [
+        "offline",
+        "sync",
+        "caching",
+        "local storage",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize memory and battery usage? - Advanced scenario #32",
+      "keywords": [
+        "memory",
+        "battery",
+        "profiling",
+        "efficiency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain push notification security and reliability - Advanced scenario #33",
+      "keywords": [
+        "push",
+        "APNs",
+        "FCM",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design an offline-first mobile app architecture - Advanced scenario #34",
+      "keywords": [
+        "offline",
+        "sync",
+        "caching",
+        "local storage",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize memory and battery usage? - Advanced scenario #35",
+      "keywords": [
+        "memory",
+        "battery",
+        "profiling",
+        "efficiency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain push notification security and reliability - Advanced scenario #36",
+      "keywords": [
+        "push",
+        "APNs",
+        "FCM",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design an offline-first mobile app architecture - Advanced scenario #37",
+      "keywords": [
+        "offline",
+        "sync",
+        "caching",
+        "local storage",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you optimize memory and battery usage? - Advanced scenario #38",
+      "keywords": [
+        "memory",
+        "battery",
+        "profiling",
+        "efficiency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain push notification security and reliability - Advanced scenario #39",
+      "keywords": [
+        "push",
+        "APNs",
+        "FCM",
+        "security",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design an offline-first mobile app architecture - Advanced scenario #40",
+      "keywords": [
+        "offline",
+        "sync",
+        "caching",
+        "local storage",
+        "design",
+        "scalability"
+      ]
+    }
+  ],
+  "data_analyst": [
+    {
+      "question": "Explain your process for deriving insights from messy data",
+      "keywords": [
+        "ETL",
+        "cleaning",
+        "analysis",
+        "storytelling",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you validate a hypothesis with data?",
+      "keywords": [
+        "hypothesis",
+        "A/B test",
+        "significance",
+        "metrics",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss working with cross-functional stakeholders",
+      "keywords": [
+        "communication",
+        "visualization",
+        "impact",
+        "reports",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for deriving insights from messy data - Advanced scenario #4",
+      "keywords": [
+        "ETL",
+        "cleaning",
+        "analysis",
+        "storytelling",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you validate a hypothesis with data? - Advanced scenario #5",
+      "keywords": [
+        "hypothesis",
+        "A/B test",
+        "significance",
+        "metrics",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss working with cross-functional stakeholders - Advanced scenario #6",
+      "keywords": [
+        "communication",
+        "visualization",
+        "impact",
+        "reports",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for deriving insights from messy data - Advanced scenario #7",
+      "keywords": [
+        "ETL",
+        "cleaning",
+        "analysis",
+        "storytelling",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you validate a hypothesis with data? - Advanced scenario #8",
+      "keywords": [
+        "hypothesis",
+        "A/B test",
+        "significance",
+        "metrics",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss working with cross-functional stakeholders - Advanced scenario #9",
+      "keywords": [
+        "communication",
+        "visualization",
+        "impact",
+        "reports",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for deriving insights from messy data - Advanced scenario #10",
+      "keywords": [
+        "ETL",
+        "cleaning",
+        "analysis",
+        "storytelling",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you validate a hypothesis with data? - Advanced scenario #11",
+      "keywords": [
+        "hypothesis",
+        "A/B test",
+        "significance",
+        "metrics",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss working with cross-functional stakeholders - Advanced scenario #12",
+      "keywords": [
+        "communication",
+        "visualization",
+        "impact",
+        "reports",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for deriving insights from messy data - Advanced scenario #13",
+      "keywords": [
+        "ETL",
+        "cleaning",
+        "analysis",
+        "storytelling",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you validate a hypothesis with data? - Advanced scenario #14",
+      "keywords": [
+        "hypothesis",
+        "A/B test",
+        "significance",
+        "metrics",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss working with cross-functional stakeholders - Advanced scenario #15",
+      "keywords": [
+        "communication",
+        "visualization",
+        "impact",
+        "reports",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for deriving insights from messy data - Advanced scenario #16",
+      "keywords": [
+        "ETL",
+        "cleaning",
+        "analysis",
+        "storytelling",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you validate a hypothesis with data? - Advanced scenario #17",
+      "keywords": [
+        "hypothesis",
+        "A/B test",
+        "significance",
+        "metrics",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss working with cross-functional stakeholders - Advanced scenario #18",
+      "keywords": [
+        "communication",
+        "visualization",
+        "impact",
+        "reports",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for deriving insights from messy data - Advanced scenario #19",
+      "keywords": [
+        "ETL",
+        "cleaning",
+        "analysis",
+        "storytelling",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you validate a hypothesis with data? - Advanced scenario #20",
+      "keywords": [
+        "hypothesis",
+        "A/B test",
+        "significance",
+        "metrics",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss working with cross-functional stakeholders - Advanced scenario #21",
+      "keywords": [
+        "communication",
+        "visualization",
+        "impact",
+        "reports",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for deriving insights from messy data - Advanced scenario #22",
+      "keywords": [
+        "ETL",
+        "cleaning",
+        "analysis",
+        "storytelling",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you validate a hypothesis with data? - Advanced scenario #23",
+      "keywords": [
+        "hypothesis",
+        "A/B test",
+        "significance",
+        "metrics",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss working with cross-functional stakeholders - Advanced scenario #24",
+      "keywords": [
+        "communication",
+        "visualization",
+        "impact",
+        "reports",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for deriving insights from messy data - Advanced scenario #25",
+      "keywords": [
+        "ETL",
+        "cleaning",
+        "analysis",
+        "storytelling",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you validate a hypothesis with data? - Advanced scenario #26",
+      "keywords": [
+        "hypothesis",
+        "A/B test",
+        "significance",
+        "metrics",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss working with cross-functional stakeholders - Advanced scenario #27",
+      "keywords": [
+        "communication",
+        "visualization",
+        "impact",
+        "reports",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for deriving insights from messy data - Advanced scenario #28",
+      "keywords": [
+        "ETL",
+        "cleaning",
+        "analysis",
+        "storytelling",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you validate a hypothesis with data? - Advanced scenario #29",
+      "keywords": [
+        "hypothesis",
+        "A/B test",
+        "significance",
+        "metrics",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss working with cross-functional stakeholders - Advanced scenario #30",
+      "keywords": [
+        "communication",
+        "visualization",
+        "impact",
+        "reports",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for deriving insights from messy data - Advanced scenario #31",
+      "keywords": [
+        "ETL",
+        "cleaning",
+        "analysis",
+        "storytelling",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you validate a hypothesis with data? - Advanced scenario #32",
+      "keywords": [
+        "hypothesis",
+        "A/B test",
+        "significance",
+        "metrics",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss working with cross-functional stakeholders - Advanced scenario #33",
+      "keywords": [
+        "communication",
+        "visualization",
+        "impact",
+        "reports",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for deriving insights from messy data - Advanced scenario #34",
+      "keywords": [
+        "ETL",
+        "cleaning",
+        "analysis",
+        "storytelling",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you validate a hypothesis with data? - Advanced scenario #35",
+      "keywords": [
+        "hypothesis",
+        "A/B test",
+        "significance",
+        "metrics",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss working with cross-functional stakeholders - Advanced scenario #36",
+      "keywords": [
+        "communication",
+        "visualization",
+        "impact",
+        "reports",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for deriving insights from messy data - Advanced scenario #37",
+      "keywords": [
+        "ETL",
+        "cleaning",
+        "analysis",
+        "storytelling",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you validate a hypothesis with data? - Advanced scenario #38",
+      "keywords": [
+        "hypothesis",
+        "A/B test",
+        "significance",
+        "metrics",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Discuss working with cross-functional stakeholders - Advanced scenario #39",
+      "keywords": [
+        "communication",
+        "visualization",
+        "impact",
+        "reports",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain your process for deriving insights from messy data - Advanced scenario #40",
+      "keywords": [
+        "ETL",
+        "cleaning",
+        "analysis",
+        "storytelling",
+        "design",
+        "scalability"
+      ]
+    }
+  ],
+  "data_scientist": [
+    {
+      "question": "Design a machine learning model for churn prediction",
+      "keywords": [
+        "classification",
+        "features",
+        "evaluation",
+        "AUC",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain dealing with imbalanced datasets",
+      "keywords": [
+        "resampling",
+        "class weights",
+        "ROC",
+        "precision",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you avoid model overfitting?",
+      "keywords": [
+        "regularization",
+        "cross-validation",
+        "features",
+        "validation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a machine learning model for churn prediction - Advanced scenario #4",
+      "keywords": [
+        "classification",
+        "features",
+        "evaluation",
+        "AUC",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain dealing with imbalanced datasets - Advanced scenario #5",
+      "keywords": [
+        "resampling",
+        "class weights",
+        "ROC",
+        "precision",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you avoid model overfitting? - Advanced scenario #6",
+      "keywords": [
+        "regularization",
+        "cross-validation",
+        "features",
+        "validation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a machine learning model for churn prediction - Advanced scenario #7",
+      "keywords": [
+        "classification",
+        "features",
+        "evaluation",
+        "AUC",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain dealing with imbalanced datasets - Advanced scenario #8",
+      "keywords": [
+        "resampling",
+        "class weights",
+        "ROC",
+        "precision",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you avoid model overfitting? - Advanced scenario #9",
+      "keywords": [
+        "regularization",
+        "cross-validation",
+        "features",
+        "validation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a machine learning model for churn prediction - Advanced scenario #10",
+      "keywords": [
+        "classification",
+        "features",
+        "evaluation",
+        "AUC",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain dealing with imbalanced datasets - Advanced scenario #11",
+      "keywords": [
+        "resampling",
+        "class weights",
+        "ROC",
+        "precision",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you avoid model overfitting? - Advanced scenario #12",
+      "keywords": [
+        "regularization",
+        "cross-validation",
+        "features",
+        "validation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a machine learning model for churn prediction - Advanced scenario #13",
+      "keywords": [
+        "classification",
+        "features",
+        "evaluation",
+        "AUC",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain dealing with imbalanced datasets - Advanced scenario #14",
+      "keywords": [
+        "resampling",
+        "class weights",
+        "ROC",
+        "precision",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you avoid model overfitting? - Advanced scenario #15",
+      "keywords": [
+        "regularization",
+        "cross-validation",
+        "features",
+        "validation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a machine learning model for churn prediction - Advanced scenario #16",
+      "keywords": [
+        "classification",
+        "features",
+        "evaluation",
+        "AUC",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain dealing with imbalanced datasets - Advanced scenario #17",
+      "keywords": [
+        "resampling",
+        "class weights",
+        "ROC",
+        "precision",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you avoid model overfitting? - Advanced scenario #18",
+      "keywords": [
+        "regularization",
+        "cross-validation",
+        "features",
+        "validation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a machine learning model for churn prediction - Advanced scenario #19",
+      "keywords": [
+        "classification",
+        "features",
+        "evaluation",
+        "AUC",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain dealing with imbalanced datasets - Advanced scenario #20",
+      "keywords": [
+        "resampling",
+        "class weights",
+        "ROC",
+        "precision",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you avoid model overfitting? - Advanced scenario #21",
+      "keywords": [
+        "regularization",
+        "cross-validation",
+        "features",
+        "validation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a machine learning model for churn prediction - Advanced scenario #22",
+      "keywords": [
+        "classification",
+        "features",
+        "evaluation",
+        "AUC",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain dealing with imbalanced datasets - Advanced scenario #23",
+      "keywords": [
+        "resampling",
+        "class weights",
+        "ROC",
+        "precision",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you avoid model overfitting? - Advanced scenario #24",
+      "keywords": [
+        "regularization",
+        "cross-validation",
+        "features",
+        "validation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a machine learning model for churn prediction - Advanced scenario #25",
+      "keywords": [
+        "classification",
+        "features",
+        "evaluation",
+        "AUC",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain dealing with imbalanced datasets - Advanced scenario #26",
+      "keywords": [
+        "resampling",
+        "class weights",
+        "ROC",
+        "precision",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you avoid model overfitting? - Advanced scenario #27",
+      "keywords": [
+        "regularization",
+        "cross-validation",
+        "features",
+        "validation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a machine learning model for churn prediction - Advanced scenario #28",
+      "keywords": [
+        "classification",
+        "features",
+        "evaluation",
+        "AUC",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain dealing with imbalanced datasets - Advanced scenario #29",
+      "keywords": [
+        "resampling",
+        "class weights",
+        "ROC",
+        "precision",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you avoid model overfitting? - Advanced scenario #30",
+      "keywords": [
+        "regularization",
+        "cross-validation",
+        "features",
+        "validation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a machine learning model for churn prediction - Advanced scenario #31",
+      "keywords": [
+        "classification",
+        "features",
+        "evaluation",
+        "AUC",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain dealing with imbalanced datasets - Advanced scenario #32",
+      "keywords": [
+        "resampling",
+        "class weights",
+        "ROC",
+        "precision",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you avoid model overfitting? - Advanced scenario #33",
+      "keywords": [
+        "regularization",
+        "cross-validation",
+        "features",
+        "validation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a machine learning model for churn prediction - Advanced scenario #34",
+      "keywords": [
+        "classification",
+        "features",
+        "evaluation",
+        "AUC",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain dealing with imbalanced datasets - Advanced scenario #35",
+      "keywords": [
+        "resampling",
+        "class weights",
+        "ROC",
+        "precision",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you avoid model overfitting? - Advanced scenario #36",
+      "keywords": [
+        "regularization",
+        "cross-validation",
+        "features",
+        "validation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a machine learning model for churn prediction - Advanced scenario #37",
+      "keywords": [
+        "classification",
+        "features",
+        "evaluation",
+        "AUC",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain dealing with imbalanced datasets - Advanced scenario #38",
+      "keywords": [
+        "resampling",
+        "class weights",
+        "ROC",
+        "precision",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you avoid model overfitting? - Advanced scenario #39",
+      "keywords": [
+        "regularization",
+        "cross-validation",
+        "features",
+        "validation",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a machine learning model for churn prediction - Advanced scenario #40",
+      "keywords": [
+        "classification",
+        "features",
+        "evaluation",
+        "AUC",
+        "design",
+        "scalability"
+      ]
+    }
+  ],
+  "business_analyst": [
+    {
+      "question": "Describe how you gather business requirements",
+      "keywords": [
+        "stakeholders",
+        "interviews",
+        "documents",
+        "synthesis",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain prioritizing features for MVP",
+      "keywords": [
+        "value",
+        "effort",
+        "RICE",
+        "roadmap",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you measure business outcomes?",
+      "keywords": [
+        "KPIs",
+        "OKR",
+        "ROI",
+        "dashboards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe how you gather business requirements - Advanced scenario #4",
+      "keywords": [
+        "stakeholders",
+        "interviews",
+        "documents",
+        "synthesis",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain prioritizing features for MVP - Advanced scenario #5",
+      "keywords": [
+        "value",
+        "effort",
+        "RICE",
+        "roadmap",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you measure business outcomes? - Advanced scenario #6",
+      "keywords": [
+        "KPIs",
+        "OKR",
+        "ROI",
+        "dashboards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe how you gather business requirements - Advanced scenario #7",
+      "keywords": [
+        "stakeholders",
+        "interviews",
+        "documents",
+        "synthesis",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain prioritizing features for MVP - Advanced scenario #8",
+      "keywords": [
+        "value",
+        "effort",
+        "RICE",
+        "roadmap",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you measure business outcomes? - Advanced scenario #9",
+      "keywords": [
+        "KPIs",
+        "OKR",
+        "ROI",
+        "dashboards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe how you gather business requirements - Advanced scenario #10",
+      "keywords": [
+        "stakeholders",
+        "interviews",
+        "documents",
+        "synthesis",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain prioritizing features for MVP - Advanced scenario #11",
+      "keywords": [
+        "value",
+        "effort",
+        "RICE",
+        "roadmap",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you measure business outcomes? - Advanced scenario #12",
+      "keywords": [
+        "KPIs",
+        "OKR",
+        "ROI",
+        "dashboards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe how you gather business requirements - Advanced scenario #13",
+      "keywords": [
+        "stakeholders",
+        "interviews",
+        "documents",
+        "synthesis",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain prioritizing features for MVP - Advanced scenario #14",
+      "keywords": [
+        "value",
+        "effort",
+        "RICE",
+        "roadmap",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you measure business outcomes? - Advanced scenario #15",
+      "keywords": [
+        "KPIs",
+        "OKR",
+        "ROI",
+        "dashboards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe how you gather business requirements - Advanced scenario #16",
+      "keywords": [
+        "stakeholders",
+        "interviews",
+        "documents",
+        "synthesis",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain prioritizing features for MVP - Advanced scenario #17",
+      "keywords": [
+        "value",
+        "effort",
+        "RICE",
+        "roadmap",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you measure business outcomes? - Advanced scenario #18",
+      "keywords": [
+        "KPIs",
+        "OKR",
+        "ROI",
+        "dashboards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe how you gather business requirements - Advanced scenario #19",
+      "keywords": [
+        "stakeholders",
+        "interviews",
+        "documents",
+        "synthesis",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain prioritizing features for MVP - Advanced scenario #20",
+      "keywords": [
+        "value",
+        "effort",
+        "RICE",
+        "roadmap",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you measure business outcomes? - Advanced scenario #21",
+      "keywords": [
+        "KPIs",
+        "OKR",
+        "ROI",
+        "dashboards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe how you gather business requirements - Advanced scenario #22",
+      "keywords": [
+        "stakeholders",
+        "interviews",
+        "documents",
+        "synthesis",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain prioritizing features for MVP - Advanced scenario #23",
+      "keywords": [
+        "value",
+        "effort",
+        "RICE",
+        "roadmap",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you measure business outcomes? - Advanced scenario #24",
+      "keywords": [
+        "KPIs",
+        "OKR",
+        "ROI",
+        "dashboards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe how you gather business requirements - Advanced scenario #25",
+      "keywords": [
+        "stakeholders",
+        "interviews",
+        "documents",
+        "synthesis",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain prioritizing features for MVP - Advanced scenario #26",
+      "keywords": [
+        "value",
+        "effort",
+        "RICE",
+        "roadmap",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you measure business outcomes? - Advanced scenario #27",
+      "keywords": [
+        "KPIs",
+        "OKR",
+        "ROI",
+        "dashboards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe how you gather business requirements - Advanced scenario #28",
+      "keywords": [
+        "stakeholders",
+        "interviews",
+        "documents",
+        "synthesis",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain prioritizing features for MVP - Advanced scenario #29",
+      "keywords": [
+        "value",
+        "effort",
+        "RICE",
+        "roadmap",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you measure business outcomes? - Advanced scenario #30",
+      "keywords": [
+        "KPIs",
+        "OKR",
+        "ROI",
+        "dashboards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe how you gather business requirements - Advanced scenario #31",
+      "keywords": [
+        "stakeholders",
+        "interviews",
+        "documents",
+        "synthesis",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain prioritizing features for MVP - Advanced scenario #32",
+      "keywords": [
+        "value",
+        "effort",
+        "RICE",
+        "roadmap",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you measure business outcomes? - Advanced scenario #33",
+      "keywords": [
+        "KPIs",
+        "OKR",
+        "ROI",
+        "dashboards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe how you gather business requirements - Advanced scenario #34",
+      "keywords": [
+        "stakeholders",
+        "interviews",
+        "documents",
+        "synthesis",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain prioritizing features for MVP - Advanced scenario #35",
+      "keywords": [
+        "value",
+        "effort",
+        "RICE",
+        "roadmap",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you measure business outcomes? - Advanced scenario #36",
+      "keywords": [
+        "KPIs",
+        "OKR",
+        "ROI",
+        "dashboards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe how you gather business requirements - Advanced scenario #37",
+      "keywords": [
+        "stakeholders",
+        "interviews",
+        "documents",
+        "synthesis",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain prioritizing features for MVP - Advanced scenario #38",
+      "keywords": [
+        "value",
+        "effort",
+        "RICE",
+        "roadmap",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you measure business outcomes? - Advanced scenario #39",
+      "keywords": [
+        "KPIs",
+        "OKR",
+        "ROI",
+        "dashboards",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Describe how you gather business requirements - Advanced scenario #40",
+      "keywords": [
+        "stakeholders",
+        "interviews",
+        "documents",
+        "synthesis",
+        "design",
+        "scalability"
+      ]
+    }
+  ],
+  "data_engineer": [
+    {
+      "question": "Design a data pipeline for streaming ingestion",
+      "keywords": [
+        "Kafka",
+        "ETL",
+        "pipeline",
+        "latency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain data warehouse vs data lake tradeoffs",
+      "keywords": [
+        "warehouse",
+        "lake",
+        "schema",
+        "governance",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you ensure data quality in pipelines?",
+      "keywords": [
+        "validation",
+        "monitoring",
+        "reconciliation",
+        "schema",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a data pipeline for streaming ingestion - Advanced scenario #4",
+      "keywords": [
+        "Kafka",
+        "ETL",
+        "pipeline",
+        "latency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain data warehouse vs data lake tradeoffs - Advanced scenario #5",
+      "keywords": [
+        "warehouse",
+        "lake",
+        "schema",
+        "governance",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you ensure data quality in pipelines? - Advanced scenario #6",
+      "keywords": [
+        "validation",
+        "monitoring",
+        "reconciliation",
+        "schema",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a data pipeline for streaming ingestion - Advanced scenario #7",
+      "keywords": [
+        "Kafka",
+        "ETL",
+        "pipeline",
+        "latency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain data warehouse vs data lake tradeoffs - Advanced scenario #8",
+      "keywords": [
+        "warehouse",
+        "lake",
+        "schema",
+        "governance",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you ensure data quality in pipelines? - Advanced scenario #9",
+      "keywords": [
+        "validation",
+        "monitoring",
+        "reconciliation",
+        "schema",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a data pipeline for streaming ingestion - Advanced scenario #10",
+      "keywords": [
+        "Kafka",
+        "ETL",
+        "pipeline",
+        "latency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain data warehouse vs data lake tradeoffs - Advanced scenario #11",
+      "keywords": [
+        "warehouse",
+        "lake",
+        "schema",
+        "governance",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you ensure data quality in pipelines? - Advanced scenario #12",
+      "keywords": [
+        "validation",
+        "monitoring",
+        "reconciliation",
+        "schema",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a data pipeline for streaming ingestion - Advanced scenario #13",
+      "keywords": [
+        "Kafka",
+        "ETL",
+        "pipeline",
+        "latency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain data warehouse vs data lake tradeoffs - Advanced scenario #14",
+      "keywords": [
+        "warehouse",
+        "lake",
+        "schema",
+        "governance",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you ensure data quality in pipelines? - Advanced scenario #15",
+      "keywords": [
+        "validation",
+        "monitoring",
+        "reconciliation",
+        "schema",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a data pipeline for streaming ingestion - Advanced scenario #16",
+      "keywords": [
+        "Kafka",
+        "ETL",
+        "pipeline",
+        "latency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain data warehouse vs data lake tradeoffs - Advanced scenario #17",
+      "keywords": [
+        "warehouse",
+        "lake",
+        "schema",
+        "governance",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you ensure data quality in pipelines? - Advanced scenario #18",
+      "keywords": [
+        "validation",
+        "monitoring",
+        "reconciliation",
+        "schema",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a data pipeline for streaming ingestion - Advanced scenario #19",
+      "keywords": [
+        "Kafka",
+        "ETL",
+        "pipeline",
+        "latency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain data warehouse vs data lake tradeoffs - Advanced scenario #20",
+      "keywords": [
+        "warehouse",
+        "lake",
+        "schema",
+        "governance",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you ensure data quality in pipelines? - Advanced scenario #21",
+      "keywords": [
+        "validation",
+        "monitoring",
+        "reconciliation",
+        "schema",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a data pipeline for streaming ingestion - Advanced scenario #22",
+      "keywords": [
+        "Kafka",
+        "ETL",
+        "pipeline",
+        "latency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain data warehouse vs data lake tradeoffs - Advanced scenario #23",
+      "keywords": [
+        "warehouse",
+        "lake",
+        "schema",
+        "governance",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you ensure data quality in pipelines? - Advanced scenario #24",
+      "keywords": [
+        "validation",
+        "monitoring",
+        "reconciliation",
+        "schema",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a data pipeline for streaming ingestion - Advanced scenario #25",
+      "keywords": [
+        "Kafka",
+        "ETL",
+        "pipeline",
+        "latency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain data warehouse vs data lake tradeoffs - Advanced scenario #26",
+      "keywords": [
+        "warehouse",
+        "lake",
+        "schema",
+        "governance",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you ensure data quality in pipelines? - Advanced scenario #27",
+      "keywords": [
+        "validation",
+        "monitoring",
+        "reconciliation",
+        "schema",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a data pipeline for streaming ingestion - Advanced scenario #28",
+      "keywords": [
+        "Kafka",
+        "ETL",
+        "pipeline",
+        "latency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain data warehouse vs data lake tradeoffs - Advanced scenario #29",
+      "keywords": [
+        "warehouse",
+        "lake",
+        "schema",
+        "governance",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you ensure data quality in pipelines? - Advanced scenario #30",
+      "keywords": [
+        "validation",
+        "monitoring",
+        "reconciliation",
+        "schema",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a data pipeline for streaming ingestion - Advanced scenario #31",
+      "keywords": [
+        "Kafka",
+        "ETL",
+        "pipeline",
+        "latency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain data warehouse vs data lake tradeoffs - Advanced scenario #32",
+      "keywords": [
+        "warehouse",
+        "lake",
+        "schema",
+        "governance",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you ensure data quality in pipelines? - Advanced scenario #33",
+      "keywords": [
+        "validation",
+        "monitoring",
+        "reconciliation",
+        "schema",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a data pipeline for streaming ingestion - Advanced scenario #34",
+      "keywords": [
+        "Kafka",
+        "ETL",
+        "pipeline",
+        "latency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain data warehouse vs data lake tradeoffs - Advanced scenario #35",
+      "keywords": [
+        "warehouse",
+        "lake",
+        "schema",
+        "governance",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you ensure data quality in pipelines? - Advanced scenario #36",
+      "keywords": [
+        "validation",
+        "monitoring",
+        "reconciliation",
+        "schema",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a data pipeline for streaming ingestion - Advanced scenario #37",
+      "keywords": [
+        "Kafka",
+        "ETL",
+        "pipeline",
+        "latency",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Explain data warehouse vs data lake tradeoffs - Advanced scenario #38",
+      "keywords": [
+        "warehouse",
+        "lake",
+        "schema",
+        "governance",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "How do you ensure data quality in pipelines? - Advanced scenario #39",
+      "keywords": [
+        "validation",
+        "monitoring",
+        "reconciliation",
+        "schema",
+        "design",
+        "scalability"
+      ]
+    },
+    {
+      "question": "Design a data pipeline for streaming ingestion - Advanced scenario #40",
+      "keywords": [
+        "Kafka",
+        "ETL",
+        "pipeline",
+        "latency",
+        "design",
+        "scalability"
+      ]
+    }
+  ]
+}
